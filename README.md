@@ -1,10 +1,4 @@
 # kode_wars
-Heyy, follow my CodeWars Journey!  
+Your classmates asked you to copy some paperwork for them. You know that there are 'n' classmates and the paperwork has 'm' pages.
 
- I'm documenting my solutions as I sharpen my problem-solving skills in JavaScript and other languages.
-
- 🎯 My Learning Focus
-- ✅ Solve *at least* 5 CodeWars challenges per week 
-- ✅ Improve algorithmic thinking  
-- ✅ Master JavaScript 
-- ✅ Write clean and well-documented code  
+Your task is to calculate how many blank pages do you need. If n < 0 or m < 0 return 0.
